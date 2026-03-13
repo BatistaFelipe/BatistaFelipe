@@ -5,7 +5,7 @@
   <a href="https://felipebatista.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-felipebatista.dev-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/batistafelipe" target="_blank">
+  <a href="https://www.linkedin.com/in/felipe-batista-b42364156" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Batista-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
