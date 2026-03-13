@@ -14,7 +14,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-Sou desenvolvedor web apaixonado por construir soluções acessíveis e escaláveis. Tenho experiência com desenvolvimento front-end e back-end, trabalhando principalmente com **TypeScript**, **Python** e o ecossistema **JavaScript/Node.js**. Gosto de criar ferramentas que fazem diferença real para as pessoas.
+Sou desenvolvedor web apaixonado por construir soluções acessíveis e escaláveis. Tenho interesse em desenvolvimento web e data analytics, trabalhando principalmente com **TypeScript**, **Python** e o ecossistema **JavaScript/Node.js**. Gosto de criar ferramentas que fazem diferença real para as pessoas.
 
 - 🔭 Projeto em destaque: **[MeAjudeALer](https://github.com/BatistaFelipe/MeAjudeALer)** — ferramenta de leitura acessível para pessoas com dislexia
 - 🌱 Atualmente aprofundando conhecimentos em **Next.js** e **Supabase**
