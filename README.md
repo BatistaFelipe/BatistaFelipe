@@ -48,23 +48,8 @@ Sou desenvolvedor web apaixonado por construir soluções acessíveis e escaláv
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [**MeAjudeALer**](https://github.com/BatistaFelipe/MeAjudeALer) ⭐ | Ferramenta de leitura acessível para pessoas com dislexia | TypeScript |
-| [**basic-crud-python**](https://github.com/BatistaFelipe/basic-crud-python) | API REST com FastAPI seguindo arquitetura MVC | Python · FastAPI |
-| [**to-do-list**](https://github.com/BatistaFelipe/to-do-list) | Aplicação web com Next.js e Supabase | JavaScript · Next.js · Supabase |
+| [**pesquisa-condominio**](https://github.com/BatistaFelipe/pesquisa-condominio) | CLI simples com CRUD de condomínios em SQLite local. | Python |
 | [**clone-tabnews**](https://github.com/BatistaFelipe/clone-tabnews) | Recriação do TabNews para o curso.dev | JavaScript · Next.js |
 | [**intelbras-info**](https://github.com/BatistaFelipe/intelbras-info) | CLI para gerenciar dispositivos Intelbras via API | Python |
 | [**setup-intercom**](https://github.com/BatistaFelipe/setup-intercom) | Automação de configuração SIP em interfones | TypeScript |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BatistaFelipe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BatistaFelipe&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BatistaFelipe&color=0d1117&style=flat-square&label=Visitas+ao+Perfil" alt="Profile views" />
-</p>
